@@ -1,9 +1,6 @@
-# Ignore docs and non-submission files
+# Ignore docs
 *.pdf
 *.md
 !README.md
 !tests/TESTING.md
 *.pptx
-RequiredFunctionsHW3.c
-ChainCrypt/
-ChainCrypt/
