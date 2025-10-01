@@ -36,7 +36,7 @@ Bob computes the same keys and decrypts `ct_0`, `ct_1` back to the original line
 
 ## Repository structure
 ```
-HW3/
+AES-CTR/
   README.md
   alice.c                         (encryption; no external helper includes)
   bob.c                           (decryption; no external helper includes)
